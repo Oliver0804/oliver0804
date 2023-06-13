@@ -29,15 +29,16 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🐈
-![](https://github.com/Oliver0804/oliver0804/blob/main/184592056_4674317639251048_3225849355225783356_n.jpg)
+
 I'm an experienced professional specializing in the Technology field, with a deep passion for computer vision, AI, and open-source software. My current projects involve integrating and developing drone flight systems based on Ardupilot. As an open-source enthusiast, I frequently contribute to various projects using tools like KiCad and FreeCAD, demonstrating my proficiency in PCB design and 3D modeling.
 
 In terms of software development, I am proficient in a variety of programming languages, including C/C++, Python, and Dart with Flutter for mobile application development. My language selection is flexible and adapts based on the needs of the project, ensuring the most efficient and effective solutions.
 
-Furthermore, I'm committed to fostering the development of Ardupilot in the Taiwanese community. Check out the Facebook group I'm currently maintaining: [Ardupilot Taipei](https://www.facebook.com/groups/ardupilot.taipei/).
+If you are interested in object detection within the realm of computer vision, you might find my write-up [here](https://hackmd.io/@accomdemy/H1Ee1sMEs) valuable.
+
+Furthermore, I'm committed to fostering the development of Ardupilot in the Taiwanese community. Check out the Facebook group I'm currently maintaining: [Ardupilot Taipei](www.facebook.com/groups/ardupilot.taipei/).
 
 In the ever-evolving landscape of technology, I continue to embrace learning opportunities, ensuring my skills stay at the forefront of the industry. My proven track record in successful project management and product development spans various domains, such as IoT, machine vision, and MCU algorithm development. I am excited to leverage these experiences for future technological contributions and innovations.
-
 
 
 ### My Experiences 💦💦
