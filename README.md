@@ -56,11 +56,11 @@ In the ever-evolving landscape of technology, I continue to embrace learning opp
   - Worked on Bluetooth Communication Products (TI/Nordic solutions)
   - Developed industrial controls (MCU base).
   
-- [Yi Li Semiconductor Co., Ltd](<CompanyURL>) - Project Assistant (Aug'16 - Apr'17)
+- [idesyn](https://idesyn.com/) - Project Assistant (Aug'16 - Apr'17)
   - Worked in the Innovation Development Department
   - Worked on system integration and program development.
 
-- [Micro Creation Personal Studio](<CompanyURL>) - Product Manager (Dec'15 - Sep'16)
+- [Personal Studio](<CompanyURL>) - Product Manager (Dec'15 - Sep'16)
   - Managed IoT product applications.
   - Developed product prototypes.
   - Worked on microcontroller development.
