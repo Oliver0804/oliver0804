@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<br />
+
+### About Me 🐈
 <a href="https://www.linkedin.com/in/oliver0804">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill="#0077B5" />
 </a>
@@ -26,10 +30,11 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" fill="#FF0000" />
 </a>
 
-<br />
+## 
 
-### About Me 🐈
-![](https://github.com/Oliver0804/oliver0804/blob/main/184592056_4674317639251048_3225849355225783356_n.jpg)
+<img src="https://github.com/Oliver0804/oliver0804/blob/main/184592056_4674317639251048_3225849355225783356_n.jpg" width="250" height="250">
+
+
 
 I'm an experienced professional specializing in the Technology field, with a deep passion for computer vision, AI, and open-source software. My current projects involve integrating and developing drone flight systems based on Ardupilot. As an open-source enthusiast, I frequently contribute to various projects using tools like KiCad and FreeCAD, demonstrating my proficiency in PCB design and 3D modeling.
 
