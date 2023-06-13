@@ -32,7 +32,7 @@ I'm an experienced professional specializing in the Technology field, with a dee
 
 In terms of software development, I am proficient in a variety of programming languages, including C/C++, Python, and Dart with Flutter for mobile application development. My language selection is flexible and adapts based on the needs of the project, ensuring the most efficient and effective solutions.
 
-Furthermore, I'm committed to fostering the development of Ardupilot in the Taiwanese community. Check out the Facebook group I'm currently maintaining: [Ardupilot Taipei](www.facebook.com/groups/ardupilot.taipei/).
+Furthermore, I'm committed to fostering the development of Ardupilot in the Taiwanese community. Check out the Facebook group I'm currently maintaining: [Ardupilot Taipei](https://www.facebook.com/groups/ardupilot.taipei/).
 
 In the ever-evolving landscape of technology, I continue to embrace learning opportunities, ensuring my skills stay at the forefront of the industry. My proven track record in successful project management and product development spans various domains, such as IoT, machine vision, and MCU algorithm development. I am excited to leverage these experiences for future technological contributions and innovations.
 
