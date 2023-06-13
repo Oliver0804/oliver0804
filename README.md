@@ -1,5 +1,5 @@
 ## Hi, I'm Oliver
-![](https://github.com/Oliver0804/oliver0804/blob/main/184592056_4674317639251048_3225849355225783356_n.jpg)
+![](https://github.com/Oliver0804/oliver0804/blob/main/terminal.gif)
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🐈
+![](https://github.com/Oliver0804/oliver0804/blob/main/184592056_4674317639251048_3225849355225783356_n.jpg)
 I'm an experienced professional specializing in the Technology field, with a deep passion for computer vision, AI, and open-source software. My current projects involve integrating and developing drone flight systems based on Ardupilot. As an open-source enthusiast, I frequently contribute to various projects using tools like KiCad and FreeCAD, demonstrating my proficiency in PCB design and 3D modeling.
 
 In terms of software development, I am proficient in a variety of programming languages, including C/C++, Python, and Dart with Flutter for mobile application development. My language selection is flexible and adapts based on the needs of the project, ensuring the most efficient and effective solutions.
