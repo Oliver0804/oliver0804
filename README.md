@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Oliver
+## Hi, I'm Oliver
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### About Me 🚀
+### About Me 🐈
 I'm an experienced professional specializing in the Technology field, with a deep passion for computer vision, AI, and open-source software. My current projects involve integrating and developing drone flight systems based on Ardupilot. As an open-source enthusiast, I frequently contribute to various projects using tools like KiCad and FreeCAD, demonstrating my proficiency in PCB design and 3D modeling.
 
 In terms of software development, I am proficient in a variety of programming languages, including C/C++, Python, and Dart with Flutter for mobile application development. My language selection is flexible and adapts based on the needs of the project, ensuring the most efficient and effective solutions.
@@ -38,7 +38,7 @@ In the ever-evolving landscape of technology, I continue to embrace learning opp
 
 
 
-### My Experiences 🙌
+### My Experiences 💦💦
 - [ESWIN](https://www.eswin.com/) - Senior Manager (Nov'21 - Present)
   - Managing and overseeing multiple high-level projects.
   - Strategizing and executing project goals and milestones.
