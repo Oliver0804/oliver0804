@@ -76,3 +76,6 @@ In the ever-evolving landscape of technology, I continue to embrace learning opp
 
 
 <br/>
+### Support Me 💖
+If you like my work and want to support me, consider sponsoring me. Every bit of support is greatly appreciated!
+[![Support me](https://img.shields.io/badge/Support-me-green.svg)](https://portaly.cc/oliver0804/support)
